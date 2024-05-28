@@ -1,0 +1,17 @@
+# 3D_Modeling_Project/configs/simulation_config.yaml
+
+frame_start: 1
+frame_end: 250
+output_path: "../results/impact_simulation_output/frame_"
+image_format: "PNG"
+resolution_x: 1920
+resolution_y: 1080
+samples: 128
+
+comet_trajectory:
+  entry_point: [150, 200, 500]
+  exit_point: [400, 500, 0]
+
+terrain:
+  size: 10
+  resolution: 100

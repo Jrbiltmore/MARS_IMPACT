@@ -1,0 +1,9 @@
+{
+  "frame_start": 1,
+  "frame_end": 250,
+  "output_path": "../results/impact_simulation_output/frame_",
+  "image_format": "PNG",
+  "resolution_x": 1920,
+  "resolution_y": 1080,
+  "samples": 128
+}

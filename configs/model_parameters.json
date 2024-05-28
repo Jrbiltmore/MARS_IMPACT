@@ -1,0 +1,17 @@
+{
+  "terrain": {
+    "size": 10,
+    "resolution": 100
+  },
+  "impact_site": {
+    "radius": 1,
+    "location": [400, 500, 0]
+  },
+  "comet": {
+    "trajectory": {
+      "entry_point": [150, 200, 500],
+      "exit_point": [400, 500, 0]
+    },
+    "size": 1.5
+  }
+}

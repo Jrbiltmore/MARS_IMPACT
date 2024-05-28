@@ -1,0 +1,8 @@
+pandas
+numpy
+Pillow
+jsonschema
+argparse
+opencv-python
+matplotlib
+bpy
